@@ -121,6 +121,28 @@ dist
 
 # TernJS port file
 .tern-port
+# Python ignores
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+# Virtual environment directories
+venv/
+ENV/
+env/
+env.bak/
+.venv/
+# Distribution / packaging
+build/
+dist/
+.eggs/
+*.egg-info/
+pip-wheel-metadata/
+# Python environment variables
+.python-version
+
 
 # Stores VSCode versions used for testing VSCode extensions
 .vscode-test
