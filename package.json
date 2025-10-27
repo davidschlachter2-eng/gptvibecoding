@@ -1,0 +1,8 @@
+{
+  "name": "gptvibecoding",
+  "version": "1.0.0",
+  "description": "Vibe coding project",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
